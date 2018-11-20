@@ -1,0 +1,19 @@
+{
+  "name": "jquery-event-type-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prelint": "tsc --noEmit",
+    "lint": "tslint --project tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jquery": "^3.3.22",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  }
+}
